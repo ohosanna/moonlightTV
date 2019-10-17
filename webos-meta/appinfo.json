@@ -1,0 +1,14 @@
+{
+  "id": "com.hosanna.app.moonlight-tv",
+  "version": "1.0.0",
+  "vendor": "LGE-SVL",
+  "type": "web",
+  "main": "index.html",
+  "title": "Moonlight TV",
+  "icon": "icon.png",
+  "miniicon": "icon-mini.png",
+  "largeIcon": "icon-large.png",
+  "bgColor": "#2dc4a2",
+  "iconColor": "#2dc4a2",
+  "uiRevision": 2
+}
